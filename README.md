@@ -4,6 +4,15 @@ Allows to copy remote FTP files and immediately upload
 to S3 bucket as soon as each individual file is downloaded.
 
 
+## Installation
+
+```bash
+
+    >>> pip install -U pyftpsync-s3
+
+```
+
+
 ## Usage
 
 S3Target() is a drop in replacement for FsTarget(). Use examples in pyftpsync documentation.
