@@ -5,7 +5,7 @@ with open("README.md", "rb") as fh:
 
 setuptools.setup(
     name="pyftpsync-s3",
-    version="0.0.7",
+    version="0.0.9",
     author="pyxnode",
     author_email="pynode@protonmail.com",
     description="Amazon S3 synchronization target for pyftpsync library",
